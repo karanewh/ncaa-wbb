@@ -25,7 +25,7 @@ var myChart = new Chart(ctx, {
            },
            subtitle: {
                display: true,
-               text: "15 schools have won NCAA titles since the first women's basketball championship in 1982. Four programs have added to their title count in the last five championships, but UConn and Tennessee still lead the pack."
+               text: ["15 schools have won NCAA titles since the first women's basketball championship in 1982. Four programs", "have added to their title count in the last five championships, but UConn and Tennessee still lead the pack."]
            }
        },
        scales: {
