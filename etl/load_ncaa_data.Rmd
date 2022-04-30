@@ -59,7 +59,8 @@ hhs_40 <- read_csv("../data/herhoopstats/hhs_rating_40_above.csv") %>%
   clean_names()
 
 
-hhs_champs <- read_csv("../data/herhoopstats/hhs_ncaa_champs_2010_22.csv") %>% 
+# Load Her Hoop Stats data on NCAA champions from the past 13 years. The data includes season-long stats for each program in each year from 2009-10 to 2021-22.
+hhs_champs <- read_csv("../data/herhoopstats/hhs_champs_all_ratings.csv") %>% 
   clean_names()
 
 ```
@@ -84,10 +85,10 @@ print(title_count$champion)
 ### Chattter: ?
 ```{r}
 hhs_line <- hhs_champs %>% 
-  filter(team == "UConn") %>% 
+  filter(team == "Stanford") %>% 
   arrange(season)
 
-print(hhs_line$hhs_rtg)
+print(hhs_line$def_rtg)
 
 ```
 
@@ -101,7 +102,7 @@ hhs_min_max_champs <- hhs_champs %>%
     max_hhs_rtg = max(hhs_rtg)
   ) %>%
   mutate(diff = max_hhs_rtg - min_hhs_rtg) %>% 
-  arrange(diff)
+  arrange(max_hhs_rtg)
 
 print(hhs_min_max_champs)
 ```
