@@ -59,7 +59,7 @@ hhs_40 <- read_csv("../data/herhoopstats/hhs_rating_40_above.csv") %>%
   clean_names()
 
 
-hhs_champs <- read_csv("../data/herhoopstats/hhs_ncaa_champs_2010_11.csv") %>% 
+hhs_champs <- read_csv("../data/herhoopstats/hhs_ncaa_champs_2010_22.csv") %>% 
   clean_names()
 
 ```
@@ -76,12 +76,11 @@ title_count <- ncaa_champs %>%
   arrange(desc(n))
 
 print(title_count$champion)
-print(title_count$n)
 
 ```
 
 
-### Line chart: HHS Ratings of NCAA Championships
+### Line chart: HHS Ratings of NCAA Champions
 ### Chattter: ?
 ```{r}
 hhs_line <- hhs_champs %>% 
@@ -90,6 +89,21 @@ hhs_line <- hhs_champs %>%
 
 print(hhs_line$hhs_rtg)
 
+```
+
+### Connected dot plot: Min/Max HHS Ratings of NCAA Champions
+### Chattter: ?
+```{r}
+hhs_min_max_champs <- hhs_champs %>% 
+  group_by(team) %>% 
+  summarise(
+    min_hhs_rtg = min(hhs_rtg),
+    max_hhs_rtg = max(hhs_rtg)
+  ) %>%
+  mutate(diff = max_hhs_rtg - min_hhs_rtg) %>% 
+  arrange(diff)
+
+print(hhs_min_max_champs)
 ```
 
 ### Graphic Table
@@ -106,26 +120,12 @@ season_record_22 <- read_csv("../data/herhoopstats/season_record_2021_22.csv") %
   
 ```
 
-```{r}
-seasons_above_40 <- hhs_40 %>% 
-  group_by(season) %>% 
-  count()
-
-teams_above_40 <- hhs_40 %>% 
-  group_by(team) %>% 
-  count()
-
-
-
-print(hhs_ratings$season)
-```
-
 
 # Export
 ```{r}
 write_csv(title_count, "../data/processed/etl_title_count.csv")
 write_csv(season_record_22, "../data/processed/etl_season_record_22.csv")
-
+write_csv(hhs_min_max_champs, "../data/processed/etl_hhs_min_max_champs.csv")
 ```
 
 -30-

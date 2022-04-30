@@ -1,0 +1,694 @@
+year	ncaa_game_id	gamedate_east	round	team_1_id	team_1_name	team_1_region	team_1_seed	team_2_id	team_2_name	team_2_region	team_2_seed
+2016	475396	2016-03-18	R64	430	Mississippi St.	Bridgeport	5	693	Chattanooga	Bridgeport	12
+2016	475397	2016-03-18	R64	51	Baylor	Dallas	1	295	Idaho	Dallas	16
+2016	475398	2016-03-18	R64	367	Louisville	Dallas	3	1004	Central Ark.	Dallas	14
+2016	475399	2016-03-18	R64	528	Oregon St.	Dallas	2	716	Troy	Dallas	15
+2016	475400	2016-03-18	R64	648	South Carolina	Sioux Falls	1	316	Jacksonville	Sioux Falls	16
+2016	475401	2016-03-18	R64	688	Syracuse	Sioux Falls	4	725	Army West Point	Sioux Falls	13
+2016	475402	2016-03-18	R64	518	Ohio St.	Sioux Falls	3	86	Buffalo	Sioux Falls	14
+2016	475403	2016-03-18	R64	28	Arizona St.	Sioux Falls	2	472	New Mexico St.	Sioux Falls	15
+2016	475409	2016-03-18	R64	249	George Washington	Sioux Falls	8	327	Kansas St.	Sioux Falls	9
+2016	475410	2016-03-18	R64	768	West Virginia	Sioux Falls	6	554	Princeton	Sioux Falls	11
+2016	475411	2016-03-18	R64	603	St. John's (NY)	Dallas	8	37	Auburn	Dallas	9
+2016	475412	2016-03-18	R64	521	Oklahoma St.	Dallas	7	596	St. Bonaventure	Dallas	10
+2016	475413	2016-03-18	R64	176	DePaul	Dallas	6	317	James Madison	Dallas	11
+2016	475414	2016-03-18	R64	416	Michigan St.	Bridgeport	4	14927	Belmont	Bridgeport	13
+2016	475415	2016-03-18	R64	694	Tennessee	Sioux Falls	7	794	Green Bay	Sioux Falls	10
+2016	475416	2016-03-18	R64	235	Florida	Sioux Falls	5	14	Albany (NY)	Sioux Falls	12
+2016	475417	2016-03-19	R64	164	UConn	Bridgeport	1	579	Robert Morris	Bridgeport	16
+2016	475418	2016-03-19	R64	110	UCLA	Bridgeport	3	277	Hawaii	Bridgeport	14
+2016	475419	2016-03-19	R64	703	Texas	Bridgeport	2	7	Alabama St.	Bridgeport	15
+2016	475420	2016-03-19	R64	697	Texas A&M	Dallas	4	669	Missouri St.	Dallas	13
+2016	475421	2016-03-19	R64	513	Notre Dame	Lexington	1	488	N.C. A&T	Lexington	16
+2016	475422	2016-03-19	R64	674	Stanford	Lexington	4	629	San Francisco	Lexington	13
+2016	475423	2016-03-19	R64	334	Kentucky	Lexington	3	456	UNC Asheville	Lexington	14
+2016	475424	2016-03-19	R64	392	Maryland	Lexington	2	310	Iona	Lexington	15
+2016	475433	2016-03-19	R64	77	BYU	Bridgeport	7	434	Missouri	Bridgeport	10
+2016	475434	2016-03-19	R64	756	Washington	Lexington	7	540	Penn	Lexington	10
+2016	475435	2016-03-19	R64	234	Florida St.	Dallas	5	419	Middle Tenn.	Dallas	12
+2016	475436	2016-03-19	R64	635	Seton Hall	Bridgeport	8	194	Duquesne	Bridgeport	9
+2016	475437	2016-03-19	R64	156	Colorado St.	Bridgeport	11	651	South Fla.	Bridgeport	6
+2016	475438	2016-03-19	R64	522	Oklahoma	Lexington	6	559	Purdue	Lexington	11
+2016	475440	2016-03-19	R64	257	Georgia	Lexington	8	306	Indiana	Lexington	9
+2016	475441	2016-03-19	R64	415	Miami (FL)	Lexington	5	649	South Dakota St.	Lexington	12
+2016	475449	2016-03-20	R32	416	Michigan St.	Bridgeport	4	430	Mississippi St.	Bridgeport	5
+2016	475450	2016-03-20	R32	51	Baylor	Dallas	1	37	Auburn	Dallas	9
+2016	475451	2016-03-20	R32	367	Louisville	Dallas	3	176	DePaul	Dallas	6
+2016	475452	2016-03-20	R32	528	Oregon St.	Dallas	2	596	St. Bonaventure	Dallas	10
+2016	475453	2016-03-20	R32	648	South Carolina	Sioux Falls	1	327	Kansas St.	Sioux Falls	9
+2016	475454	2016-03-20	R32	688	Syracuse	Sioux Falls	4	14	Albany (NY)	Sioux Falls	12
+2016	475455	2016-03-20	R32	518	Ohio St.	Sioux Falls	3	768	West Virginia	Sioux Falls	6
+2016	475456	2016-03-20	R32	28	Arizona St.	Sioux Falls	2	694	Tennessee	Sioux Falls	7
+2016	475465	2016-03-21	R32	164	UConn	Bridgeport	1	194	Duquesne	Bridgeport	9
+2016	475466	2016-03-21	R32	110	UCLA	Bridgeport	3	651	South Fla.	Bridgeport	6
+2016	475467	2016-03-21	R32	703	Texas	Bridgeport	2	434	Missouri	Bridgeport	10
+2016	475468	2016-03-21	R32	697	Texas A&M	Dallas	4	234	Florida St.	Dallas	5
+2016	475469	2016-03-21	R32	513	Notre Dame	Lexington	1	306	Indiana	Lexington	9
+2016	475470	2016-03-21	R32	674	Stanford	Lexington	4	649	South Dakota St.	Lexington	12
+2016	475471	2016-03-21	R32	334	Kentucky	Lexington	3	522	Oklahoma	Lexington	6
+2016	475472	2016-03-21	R32	392	Maryland	Lexington	2	756	Washington	Lexington	7
+2016	475489	2016-03-25	S16	513	Notre Dame	Lexington	1	674	Stanford	Lexington	4
+2016	475490	2016-03-25	S16	334	Kentucky	Lexington	3	756	Washington	Lexington	7
+2016	475491	2016-03-25	S16	648	South Carolina	Sioux Falls	1	688	Syracuse	Sioux Falls	4
+2016	475492	2016-03-25	S16	518	Ohio St.	Sioux Falls	3	694	Tennessee	Sioux Falls	7
+2016	475494	2016-03-26	S16	528	Oregon St.	Dallas	2	176	DePaul	Dallas	6
+2016	475495	2016-03-26	S16	51	Baylor	Dallas	1	234	Florida St.	Dallas	5
+2016	475496	2016-03-26	S16	164	UConn	Bridgeport	1	430	Mississippi St.	Bridgeport	5
+2016	475497	2016-03-26	S16	703	Texas	Bridgeport	2	110	UCLA	Bridgeport	3
+2016	475499	2016-03-27	E8	674	Stanford	Lexington	4	756	Washington	Lexington	7
+2016	475500	2016-03-27	E8	688	Syracuse	Sioux Falls	4	694	Tennessee	Sioux Falls	7
+2016	475504	2016-03-28	E8	51	Baylor	Dallas	1	528	Oregon St.	Dallas	2
+2016	475505	2016-03-28	E8	164	UConn	Bridgeport	1	703	Texas	Bridgeport	2
+2016	475509	2016-04-03	F4	688	Syracuse	Sioux Falls	4	756	Washington	Lexington	7
+2016	475510	2016-04-03	F4	164	UConn	Bridgeport	1	528	Oregon St.	Dallas	2
+2016	475513	2016-04-05	C2	164	UConn	Bridgeport	1	688	Syracuse	Sioux Falls	4
+2017	330688	2017-03-17	R64	392	Maryland	Bridgeport	3	83	Bucknell	Bridgeport	14
+2017	330689	2017-03-17	R64	430	Mississippi St.	Oklahoma City	2	716	Troy	Oklahoma City	15
+2017	330690	2017-03-17	R64	513	Notre Dame	Lexington	1	579	Robert Morris	Lexington	16
+2017	330691	2017-03-17	R64	334	Kentucky	Lexington	4	14927	Belmont	Lexington	13
+2017	330692	2017-03-17	R64	703	Texas	Lexington	3	1004	Central Ark.	Lexington	14
+2017	330693	2017-03-17	R64	648	South Carolina	Stockton	1	456	UNC Asheville	Stockton	16
+2017	330694	2017-03-17	R64	234	Florida St.	Stockton	3	771	Western Ill.	Stockton	14
+2017	330695	2017-03-17	R64	528	Oregon St.	Stockton	2	99	Long Beach St.	Stockton	15
+2017	330708	2017-03-17	R64	490	NC State	Lexington	6	37	Auburn	Lexington	11
+2017	330709	2017-03-17	R64	768	West Virginia	Bridgeport	6	1068	Elon	Bridgeport	11
+2017	330710	2017-03-17	R64	28	Arizona St.	Stockton	8	416	Michigan St.	Stockton	9
+2017	330711	2017-03-17	R64	169	Creighton	Stockton	7	709	Toledo	Stockton	10
+2017	330714	2017-03-17	R64	518	Ohio St.	Lexington	5	772	Western Ky.	Lexington	12
+2017	330715	2017-03-17	R64	794	Green Bay	Lexington	8	559	Purdue	Lexington	9
+2017	330716	2017-03-17	R64	176	DePaul	Oklahoma City	7	504	UNI	Oklahoma City	10
+2017	330717	2017-03-17	R64	434	Missouri	Stockton	6	651	South Fla.	Stockton	11
+2017	330718	2017-03-18	R64	164	UConn	Bridgeport	1	14	Albany (NY)	Bridgeport	16
+2017	330719	2017-03-18	R64	110	UCLA	Bridgeport	4	66	Boise St.	Bridgeport	13
+2017	330720	2017-03-18	R64	193	Duke	Bridgeport	2	270	Hampton	Bridgeport	15
+2017	330721	2017-03-18	R64	51	Baylor	Oklahoma City	1	699	Texas Southern	Oklahoma City	16
+2017	330722	2017-03-18	R64	367	Louisville	Oklahoma City	4	693	Chattanooga	Oklahoma City	13
+2017	330723	2017-03-18	R64	756	Washington	Oklahoma City	3	440	Montana St.	Oklahoma City	14
+2017	330724	2017-03-18	R64	327	Kansas St.	Lexington	7	189	Drake	Lexington	10
+2017	330725	2017-03-18	R64	415	Miami (FL)	Stockton	4	28755	FGCU	Stockton	13
+2017	330729	2017-03-18	R64	674	Stanford	Lexington	2	472	New Mexico St.	Lexington	15
+2017	330730	2017-03-18	R64	690	Temple	Bridgeport	7	529	Oregon	Bridgeport	10
+2017	330731	2017-03-18	R64	365	LSU	Oklahoma City	8	107	California	Oklahoma City	9
+2017	330732	2017-03-18	R64	688	Syracuse	Bridgeport	8	311	Iowa St.	Bridgeport	9
+2017	330733	2017-03-18	R64	694	Tennessee	Oklahoma City	5	175	Dayton	Oklahoma City	12
+2017	330734	2017-03-18	R64	697	Texas A&M	Bridgeport	5	540	Penn	Bridgeport	12
+2017	330735	2017-03-18	R64	522	Oklahoma	Oklahoma City	6	260	Gonzaga	Oklahoma City	11
+2017	330736	2017-03-18	R64	387	Marquette	Stockton	5	562	Quinnipiac	Stockton	12
+2017	330748	2017-03-19	R32	392	Maryland	Bridgeport	3	768	West Virginia	Bridgeport	6
+2017	330749	2017-03-19	R32	513	Notre Dame	Lexington	1	559	Purdue	Lexington	9
+2017	330750	2017-03-19	R32	334	Kentucky	Lexington	4	518	Ohio St.	Lexington	5
+2017	330751	2017-03-19	R32	703	Texas	Lexington	3	490	NC State	Lexington	6
+2017	330752	2017-03-19	R32	648	South Carolina	Stockton	1	28	Arizona St.	Stockton	8
+2017	330753	2017-03-19	R32	234	Florida St.	Stockton	3	434	Missouri	Stockton	6
+2017	330754	2017-03-19	R32	528	Oregon St.	Stockton	2	169	Creighton	Stockton	7
+2017	330755	2017-03-19	R32	430	Mississippi St.	Oklahoma City	2	176	DePaul	Oklahoma City	7
+2017	330764	2017-03-20	R32	164	UConn	Bridgeport	1	688	Syracuse	Bridgeport	8
+2017	330765	2017-03-20	R32	110	UCLA	Bridgeport	4	697	Texas A&M	Bridgeport	5
+2017	330766	2017-03-20	R32	193	Duke	Bridgeport	2	529	Oregon	Bridgeport	10
+2017	330767	2017-03-20	R32	51	Baylor	Oklahoma City	1	107	California	Oklahoma City	9
+2017	330768	2017-03-20	R32	367	Louisville	Oklahoma City	4	694	Tennessee	Oklahoma City	5
+2017	330769	2017-03-20	R32	756	Washington	Oklahoma City	3	522	Oklahoma	Oklahoma City	6
+2017	330770	2017-03-20	R32	674	Stanford	Lexington	2	327	Kansas St.	Lexington	7
+2017	330771	2017-03-20	R32	415	Miami (FL)	Stockton	4	562	Quinnipiac	Stockton	12
+2017	330789	2017-03-24	S16	51	Baylor	Oklahoma City	1	367	Louisville	Oklahoma City	4
+2017	330790	2017-03-24	S16	430	Mississippi St.	Oklahoma City	2	756	Washington	Oklahoma City	3
+2017	330791	2017-03-24	S16	674	Stanford	Lexington	2	703	Texas	Lexington	3
+2017	330792	2017-03-24	S16	513	Notre Dame	Lexington	1	518	Ohio St.	Lexington	5
+2017	330794	2017-03-25	S16	392	Maryland	Bridgeport	3	529	Oregon	Bridgeport	10
+2017	330795	2017-03-25	S16	528	Oregon St.	Stockton	2	234	Florida St.	Stockton	3
+2017	330796	2017-03-25	S16	648	South Carolina	Stockton	1	562	Quinnipiac	Stockton	12
+2017	330797	2017-03-25	S16	164	UConn	Bridgeport	1	110	UCLA	Bridgeport	4
+2017	330802	2017-03-26	E8	513	Notre Dame	Lexington	1	674	Stanford	Lexington	2
+2017	330803	2017-03-26	E8	51	Baylor	Oklahoma City	1	430	Mississippi St.	Oklahoma City	2
+2017	330804	2017-03-27	E8	648	South Carolina	Stockton	1	234	Florida St.	Stockton	3
+2017	330805	2017-03-27	E8	164	UConn	Bridgeport	1	529	Oregon	Bridgeport	10
+2017	330808	2017-03-31	F4	164	UConn	Bridgeport	1	430	Mississippi St.	Oklahoma City	2
+2017	330809	2017-03-31	F4	648	South Carolina	Stockton	1	674	Stanford	Lexington	2
+2017	330811	2017-04-02	C2	648	South Carolina	Stockton	1	430	Mississippi St.	Oklahoma City	2
+2018	42480	2018-03-16	R64	648	South Carolina	Albany	2	488	N.C. A&T	Albany	15
+2018	42481	2018-03-16	R64	513	Notre Dame	Spokane	1	101	CSUN	Spokane	16
+2018	42482	2018-03-16	R64	697	Texas A&M	Spokane	4	189	Drake	Spokane	13
+2018	42483	2018-03-16	R64	529	Oregon	Spokane	2	1356	Seattle U	Spokane	15
+2018	42484	2018-03-16	R64	490	NC State	Kansas City	4	1068	Elon	Kansas City	13
+2018	42485	2018-03-16	R64	367	Louisville	Lexington	1	66	Boise St.	Lexington	16
+2018	42486	2018-03-16	R64	694	Tennessee	Lexington	3	355	Liberty	Lexington	14
+2018	42487	2018-03-16	R64	51	Baylor	Lexington	2	261	Grambling	Lexington	15
+2018	42488	2018-03-16	R64	176	DePaul	Spokane	5	522	Oklahoma	Spokane	12
+2018	42489	2018-03-16	R64	107	California	Albany	7	746	Virginia	Albany	10
+2018	42490	2018-03-16	R64	794	Green Bay	Spokane	7	428	Minnesota	Spokane	10
+2018	42491	2018-03-16	R64	418	Michigan	Lexington	7	502	Northern Colo.	Lexington	10
+2018	42492	2018-03-16	R64	387	Marquette	Lexington	8	175	Dayton	Lexington	9
+2018	42493	2018-03-16	R64	528	Oregon St.	Lexington	6	772	Western Ky.	Lexington	11
+2018	42494	2018-03-16	R64	649	South Dakota St.	Spokane	8	739	Villanova	Spokane	9
+2018	42495	2018-03-16	R64	392	Maryland	Kansas City	5	554	Princeton	Kansas City	12
+2018	42498	2018-03-17	R64	164	UConn	Albany	1	600	Saint Francis (PA)	Albany	16
+2018	42499	2018-03-17	R64	257	Georgia	Albany	4	406	Mercer	Albany	13
+2018	42500	2018-03-17	R64	234	Florida St.	Albany	3	32	Little Rock	Albany	14
+2018	42501	2018-03-17	R64	518	Ohio St.	Spokane	3	249	George Washington	Spokane	14
+2018	42502	2018-03-17	R64	430	Mississippi St.	Kansas City	1	483	Nicholls St.	Kansas City	16
+2018	42503	2018-03-17	R64	110	UCLA	Kansas City	3	23	American	Kansas City	14
+2018	42504	2018-03-17	R64	703	Texas	Kansas City	2	380	Maine	Kansas City	15
+2018	42505	2018-03-17	R64	674	Stanford	Lexington	4	260	Gonzaga	Lexington	13
+2018	42508	2018-03-17	R64	193	Duke	Albany	5	14927	Belmont	Albany	12
+2018	42509	2018-03-17	R64	28	Arizona St.	Kansas City	7	463	Nebraska	Kansas City	10
+2018	42510	2018-03-17	R64	365	LSU	Spokane	6	129	Central Mich.	Spokane	11
+2018	42511	2018-03-17	R64	415	Miami (FL)	Albany	8	562	Quinnipiac	Albany	9
+2018	42512	2018-03-17	R64	312	Iowa	Kansas City	6	169	Creighton	Kansas City	11
+2018	42513	2018-03-17	R64	434	Missouri	Lexington	5	28755	FGCU	Lexington	12
+2018	42514	2018-03-17	R64	688	Syracuse	Kansas City	8	521	Oklahoma St.	Kansas City	9
+2018	42515	2018-03-17	R64	651	South Fla.	Albany	6	86	Buffalo	Albany	11
+2018	42527	2018-03-18	R32	648	South Carolina	Albany	2	746	Virginia	Albany	10
+2018	42528	2018-03-18	R32	490	NC State	Kansas City	4	392	Maryland	Kansas City	5
+2018	42529	2018-03-18	R32	513	Notre Dame	Spokane	1	739	Villanova	Spokane	9
+2018	42530	2018-03-18	R32	697	Texas A&M	Spokane	4	176	DePaul	Spokane	5
+2018	42531	2018-03-18	R32	529	Oregon	Spokane	2	428	Minnesota	Spokane	10
+2018	42532	2018-03-18	R32	367	Louisville	Lexington	1	387	Marquette	Lexington	8
+2018	42533	2018-03-18	R32	694	Tennessee	Lexington	3	528	Oregon St.	Lexington	6
+2018	42534	2018-03-18	R32	51	Baylor	Lexington	2	418	Michigan	Lexington	7
+2018	42541	2018-03-19	R32	164	UConn	Albany	1	562	Quinnipiac	Albany	9
+2018	42542	2018-03-19	R32	257	Georgia	Albany	4	193	Duke	Albany	5
+2018	42543	2018-03-19	R32	234	Florida St.	Albany	3	86	Buffalo	Albany	11
+2018	42544	2018-03-19	R32	518	Ohio St.	Spokane	3	129	Central Mich.	Spokane	11
+2018	42545	2018-03-19	R32	430	Mississippi St.	Kansas City	1	521	Oklahoma St.	Kansas City	9
+2018	42546	2018-03-19	R32	110	UCLA	Kansas City	3	169	Creighton	Kansas City	11
+2018	42547	2018-03-19	R32	703	Texas	Kansas City	2	28	Arizona St.	Kansas City	7
+2018	42548	2018-03-19	R32	674	Stanford	Lexington	4	28755	FGCU	Lexington	12
+2018	42566	2018-03-23	S16	367	Louisville	Lexington	1	674	Stanford	Lexington	4
+2018	42567	2018-03-23	S16	430	Mississippi St.	Kansas City	1	490	NC State	Kansas City	4
+2018	42568	2018-03-23	S16	703	Texas	Kansas City	2	110	UCLA	Kansas City	3
+2018	42569	2018-03-23	S16	51	Baylor	Lexington	2	528	Oregon St.	Lexington	6
+2018	42572	2018-03-24	S16	164	UConn	Albany	1	193	Duke	Albany	5
+2018	42573	2018-03-24	S16	648	South Carolina	Albany	2	86	Buffalo	Albany	11
+2018	42574	2018-03-24	S16	513	Notre Dame	Spokane	1	697	Texas A&M	Spokane	4
+2018	42575	2018-03-24	S16	529	Oregon	Spokane	2	129	Central Mich.	Spokane	11
+2018	42581	2018-03-25	E8	367	Louisville	Lexington	1	528	Oregon St.	Lexington	6
+2018	42582	2018-03-25	E8	430	Mississippi St.	Kansas City	1	110	UCLA	Kansas City	3
+2018	42583	2018-03-26	E8	164	UConn	Albany	1	648	South Carolina	Albany	2
+2018	42584	2018-03-26	E8	513	Notre Dame	Spokane	1	529	Oregon	Spokane	2
+2018	42588	2018-03-30	F4	430	Mississippi St.	Kansas City	1	367	Louisville	Lexington	1
+2018	42589	2018-03-30	F4	164	UConn	Albany	1	513	Notre Dame	Spokane	1
+2018	42591	2018-04-01	C2	430	Mississippi St.	Kansas City	1	513	Notre Dame	Spokane	1
+2019	1719727	2019-03-22	R64	28	Arizona St.	Portland	5	128	UCF	Portland	12
+2019	1719728	2019-03-22	R64	415	Miami (FL)	Portland	4	28755	FGCU	Portland	13
+2019	1719729	2019-03-22	R64	587	Rutgers	Albany	7	86	Buffalo	Albany	10
+2019	1719730	2019-03-22	R64	164	UConn	Albany	2	711	Towson	Albany	15
+2019	1719731	2019-03-22	R64	430	Mississippi St.	Portland	1	665	Southern U.	Portland	16
+2019	1719732	2019-03-22	R64	650	South Dakota	Portland	8	147	Clemson	Portland	9
+2019	1719733	2019-03-22	R64	367	Louisville	Albany	1	579	Robert Morris	Albany	16
+2019	1719734	2019-03-22	R64	418	Michigan	Albany	8	327	Kansas St.	Albany	9
+2019	1719735	2019-03-22	R64	234	Florida St.	Greensboro	5	83	Bucknell	Greensboro	12
+2019	1719736	2019-03-22	R64	648	South Carolina	Greensboro	4	14927	Belmont	Greensboro	13
+2019	1719737	2019-03-22	R64	434	Missouri	Greensboro	7	189	Drake	Greensboro	10
+2019	1719738	2019-03-22	R64	312	Iowa	Greensboro	2	406	Mercer	Greensboro	15
+2019	1719739	2019-03-22	R64	387	Marquette	Chicago	5	574	Rice	Chicago	12
+2019	1719740	2019-03-22	R64	697	Texas A&M	Chicago	4	810	Wright St.	Chicago	13
+2019	1719741	2019-03-22	R64	703	Texas	Portland	7	306	Indiana	Portland	10
+2019	1719742	2019-03-22	R64	529	Oregon	Portland	2	550	Portland St.	Portland	15
+2019	1719743	2019-03-23	R64	110	UCLA	Albany	6	694	Tennessee	Albany	11
+2019	1719744	2019-03-23	R64	392	Maryland	Albany	3	563	Radford	Albany	14
+2019	1719745	2019-03-23	R64	176	DePaul	Chicago	6	669	Missouri St.	Chicago	11
+2019	1719746	2019-03-23	R64	311	Iowa St.	Chicago	3	472	New Mexico St.	Chicago	14
+2019	1719747	2019-03-23	R64	51	Baylor	Greensboro	1	2	Abilene Christian	Greensboro	16
+2019	1719748	2019-03-23	R64	107	California	Greensboro	8	457	North Carolina	Greensboro	9
+2019	1719749	2019-03-23	R64	649	South Dakota St.	Portland	6	562	Quinnipiac	Portland	11
+2019	1719750	2019-03-23	R64	688	Syracuse	Portland	3	236	Fordham	Portland	14
+2019	1719751	2019-03-23	R64	77	BYU	Chicago	7	37	Auburn	Chicago	10
+2019	1719752	2019-03-23	R64	674	Stanford	Chicago	2	108	UC Davis	Chicago	15
+2019	1719753	2019-03-23	R64	334	Kentucky	Greensboro	6	554	Princeton	Greensboro	11
+2019	1719754	2019-03-23	R64	490	NC State	Greensboro	3	380	Maine	Greensboro	14
+2019	1719755	2019-03-23	R64	513	Notre Dame	Chicago	1	61	Bethune-Cookman	Chicago	16
+2019	1719756	2019-03-23	R64	129	Central Mich.	Chicago	8	416	Michigan St.	Chicago	9
+2019	1719757	2019-03-23	R64	260	Gonzaga	Albany	5	32	Little Rock	Albany	12
+2019	1719758	2019-03-23	R64	528	Oregon St.	Albany	4	66	Boise St.	Albany	13
+2019	1719759	2019-03-24	R32	367	Louisville	Albany	1	418	Michigan	Albany	8
+2019	1719760	2019-03-24	R32	648	South Carolina	Greensboro	4	234	Florida St.	Greensboro	5
+2019	1719761	2019-03-24	R32	529	Oregon	Portland	2	306	Indiana	Portland	10
+2019	1719762	2019-03-24	R32	415	Miami (FL)	Portland	4	28	Arizona St.	Portland	5
+2019	1719763	2019-03-24	R32	164	UConn	Albany	2	86	Buffalo	Albany	10
+2019	1719764	2019-03-24	R32	697	Texas A&M	Chicago	4	387	Marquette	Chicago	5
+2019	1719765	2019-03-24	R32	430	Mississippi St.	Portland	1	147	Clemson	Portland	9
+2019	1719766	2019-03-24	R32	312	Iowa	Greensboro	2	434	Missouri	Greensboro	7
+2019	1719767	2019-03-25	R32	311	Iowa St.	Chicago	3	669	Missouri St.	Chicago	11
+2019	1719768	2019-03-25	R32	688	Syracuse	Portland	3	649	South Dakota St.	Portland	6
+2019	1719769	2019-03-25	R32	513	Notre Dame	Chicago	1	416	Michigan St.	Chicago	9
+2019	1719770	2019-03-25	R32	51	Baylor	Greensboro	1	107	California	Greensboro	8
+2019	1719771	2019-03-25	R32	674	Stanford	Chicago	2	77	BYU	Chicago	7
+2019	1719772	2019-03-25	R32	392	Maryland	Albany	3	110	UCLA	Albany	6
+2019	1719773	2019-03-25	R32	490	NC State	Greensboro	3	334	Kentucky	Greensboro	6
+2019	1719774	2019-03-25	R32	528	Oregon St.	Albany	4	260	Gonzaga	Albany	5
+2019	1719775	2019-03-29	S16	430	Mississippi St.	Portland	1	28	Arizona St.	Portland	5
+2019	1719776	2019-03-29	S16	529	Oregon	Portland	2	649	South Dakota St.	Portland	6
+2019	1719777	2019-03-29	S16	367	Louisville	Albany	1	528	Oregon St.	Albany	4
+2019	1719778	2019-03-29	S16	164	UConn	Albany	2	110	UCLA	Albany	6
+2019	1719779	2019-03-30	S16	51	Baylor	Greensboro	1	648	South Carolina	Greensboro	4
+2019	1719780	2019-03-30	S16	312	Iowa	Greensboro	2	490	NC State	Greensboro	3
+2019	1719781	2019-03-30	S16	513	Notre Dame	Chicago	1	697	Texas A&M	Chicago	4
+2019	1719782	2019-03-30	S16	674	Stanford	Chicago	2	669	Missouri St.	Chicago	11
+2019	1719783	2019-03-31	E8	367	Louisville	Albany	1	164	UConn	Albany	2
+2019	1719784	2019-03-31	E8	430	Mississippi St.	Portland	1	529	Oregon	Portland	2
+2019	1719785	2019-04-01	E8	51	Baylor	Greensboro	1	312	Iowa	Greensboro	2
+2019	1719786	2019-04-01	E8	513	Notre Dame	Chicago	1	674	Stanford	Chicago	2
+2019	1719787	2019-04-05	F4	51	Baylor	Greensboro	1	529	Oregon	Portland	2
+2019	1719788	2019-04-05	F4	513	Notre Dame	Chicago	1	164	UConn	Albany	2
+2019	1719789	2019-04-07	C2	51	Baylor	Greensboro	1	513	Notre Dame	Chicago	1
+2021	2060958	2021-03-21	R64	51	Baylor	River Walk	2	314	Jackson St.	 River Walk	15
+2021	2060874	2021-03-21	R64	164	UConn	River Walk	1	19651	High Point	River Walk	16
+2021	2060955	2021-03-21	R64	312	Iowa		5	129	Central Mich.		12
+2021	2060956	2021-03-21	R64	334	Kentucky		4	294	Idaho St.		13
+2021	2060957	2021-03-21	R64	418	Michigan		6	28755	FGCU		11
+2021	2060959	2021-03-21	R64	490	NC State		1	488	N.C. A&T		16
+2021	2060875	2021-03-21	R64	521	Oklahoma St.		8	749	Wake Forest		9
+2021	2060916	2021-03-21	R64	528	Oregon St.		8	234	Florida St.		9
+2021	2060938	2021-03-21	R64	648	South Carolina		1	406	Mercer		16
+2021	2060919	2021-03-21	R64	651	South Fla.		8	754	Washington St.		9
+2021	2060873	2021-03-21	R64	674	Stanford		1	30024	Utah Valley		16
+2021	2060878	2021-03-21	R64	688	Syracuse		8	649	South Dakota St.		9
+2021	2060917	2021-03-21	R64	694	Tennessee		3	419	Middle Tenn.		14
+2021	2060950	2021-03-21	R64	768	West Virginia		4	352	Lehigh		13
+2021	2060918	2021-03-21	R64	742	Virginia Tech		7	387	Marquette		10
+2021	2060949	2021-03-21	R64	255	Georgia Tech		5	676	SFA		12
+2021	2060952	2021-03-22	R64	110	UCLA		3	811	Wyoming		14
+2021	2060935	2021-03-22	R64	257	Georgia		3	191	Drexel		14
+2021	2060920	2021-03-22	R64	260	Gonzaga		5	14927	Belmont		12
+2021	2060962	2021-03-22	R64	311	Iowa St.		7	416	Michigan St.		10
+2021	2060937	2021-03-22	R64	367	Louisville		2	386	Marist		15
+2021	2060954	2021-03-22	R64	392	Maryland		2	450	Mount St. Mary's		15
+2021	2060914	2021-03-22	R64	529	Oregon		6	650	South Dakota		11
+2021	2060921	2021-03-22	R64	587	Rutgers		6	77	BYU		11
+2021	2060975	2021-03-22	R64	697	Texas A&M		2	716	Troy		15
+2021	2060951	2021-03-22	R64	703	Texas		6	72	Bradley		11
+2021	2060953	2021-03-22	R64	8	Alabama		7	457	North Carolina		10
+2021	2060961	2021-03-22	R64	29	Arizona		3	683	Stony Brook		14
+2021	2060912	2021-03-22	R64	669	Missouri St.		5	108	UC Davis		12
+2021	2060936	2021-03-22	R64	509	Northwestern		7	128	UCF		10
+2021	2060960	2021-03-22	R64	306	Indiana		4	740	VCU		13
+2021	2060913	2021-03-22	R64	31	Arkansas		4	810	Wright St.		13
+2021	2061284	2021-03-23	R32	674	Stanford		1	521	Oklahoma St.		8
+2021	2061575	2021-03-23	R32	164	UConn		1	688	Syracuse		8
+2021	2061578	2021-03-23	R32	51	Baylor		2	742	Virginia Tech		7
+2021	2061193	2021-03-23	R32	648	South Carolina		1	528	Oregon St.		8
+2021	2061332	2021-03-23	R32	768	West Virginia		4	255	Georgia Tech		5
+2021	2061577	2021-03-23	R32	694	Tennessee		3	418	Michigan		6
+2021	2061576	2021-03-23	R32	334	Kentucky		4	312	Iowa		5
+2021	2061579	2021-03-23	R32	490	NC State		1	651	South Fla.		8
+2021	2061580	2021-03-24	R32	110	UCLA		3	703	Texas		6
+2021	2061583	2021-03-24	R32	29	Arizona		3	77	BYU		11
+2021	2061545	2021-03-24	R32	697	Texas A&M		2	311	Iowa St.		7
+2021	2061582	2021-03-24	R32	306	Indiana		4	14927	Belmont		12
+2021	2061544	2021-03-24	R32	367	Louisville		2	509	Northwestern		7
+2021	2061543	2021-03-24	R32	257	Georgia		3	529	Oregon		6
+2021	2061542	2021-03-24	R32	669	Missouri St.		5	810	Wright St.		13
+2021	2061581	2021-03-24	R32	392	Maryland		2	8	Alabama		7
+2021	2061277	2021-03-27	S16	697	Texas A&M		2	29	Arizona		3
+2021	2061275	2021-03-27	S16	490	NC State		1	306	Indiana		4
+2021	2061271	2021-03-27	S16	51	Baylor		2	418	Michigan		6
+2021	2061269	2021-03-27	S16	164	UConn		1	312	Iowa		5
+2021	2061267	2021-03-28	S16	392	Maryland		2	703	Texas		6
+2021	2061258	2021-03-28	S16	367	Louisville		2	529	Oregon		6
+2021	2061256	2021-03-28	S16	674	Stanford		1	669	Missouri St.		5
+2021	2061265	2021-03-28	S16	648	South Carolina		1	255	Georgia Tech		5
+2021	2060887	2021-03-29	E8	29	Arizona		3	306	Indiana		4
+2021	2060882	2021-03-29	E8	164	UConn		1	51	Baylor		2
+2021	2060868	2021-03-30	E8	674	Stanford		1	367	Louisville		2
+2021	2060869	2021-03-30	E8	648	South Carolina		1	703	Texas		6
+2021	2060861	2021-04-04	C2	674	Stanford		1	29	Arizona		3
+2021	2060866	2021-04-02	F4	164	UConn		1	29	Arizona		3
+2021	2060864	2021-04-02	F4	674	Stanford		1	648	South Carolina		1
+2015	401523	2015-03-20	R64	51	Baylor	Oklahoma City	2	508	Northwestern St.	Oklahoma City	7
+2015	401517	2015-03-20	R64	107	California	Albany	4	782	Wichita St.	Albany	13
+2015	401533	2015-03-20	R64	175	Dayton	Albany	7	311	Iowa St.	Albany	10
+2015	401519	2015-03-20	R64	193	Duke	Spokane	4	14	Albany (NY)	Spokane	13
+2015	401530	2015-03-20	R64	249	George Washington	Spokane	6	260	Gonzaga	Spokane	11
+2015	401522	2015-03-20	R64	312	Iowa	Oklahoma City	3	23	American	Oklahoma City	14
+2015	401518	2015-03-20	R64	334	Kentucky	Albany	2	691	Tennessee St.	Albany	15
+2015	401534	2015-03-20	R64	428	Minnesota	Oklahoma City	8	176	DePaul	Oklahoma City	9
+2015	401529	2015-03-20	R64	430	Mississippi St.	Spokane	5	718	Tulane	Spokane	12
+2015	401521	2015-03-20	R64	513	Notre Dame	Oklahoma City	1	441	Montana	Oklahoma City	16
+2015	401520	2015-03-20	R64	528	Oregon St.	Spokane	3	649	South Dakota St.	Spokane	14
+2015	401524	2015-03-20	R64	648	South Carolina	Greensboro	1	632	Savannah St.	Greensboro	16
+2015	401528	2015-03-20	R64	688	Syracuse	Greensboro	8	463	Nebraska	Greensboro	9
+2015	401526	2015-03-20	R64	703	Texas	Albany	5	772	Western Ky.	Albany	12
+2015	401527	2015-03-20	R64	756	Washington	Oklahoma City	6	415	Miami (FL)	Oklahoma City	11
+2015	401542	2015-03-21	R64	28	Arizona St.	Greensboro	3	519	Ohio	Greensboro	14
+2015	401551	2015-03-21	R64	693	Chattanooga	Spokane	7	545	Pittsburgh	Spokane	10
+2015	401547	2015-03-21	R64	28755	FGCU	Greensboro	7	521	Oklahoma St.	Greensboro	10
+2015	401543	2015-03-21	R64	234	Florida St.	Greensboro	2	7	Alabama St.	Greensboro	15
+2015	401553	2015-03-21	R64	367	Louisville	Albany	3	77	BYU	Albany	14
+2015	401538	2015-03-21	R64	392	Maryland	Spokane	1	472	New Mexico St.	Spokane	16
+2015	401541	2015-03-21	R64	457	North Carolina	Greensboro	4	355	Liberty	Greensboro	13
+2015	401545	2015-03-21	R64	518	Ohio St.	Greensboro	5	317	James Madison	Greensboro	12
+2015	401552	2015-03-21	R64	522	Oklahoma	Oklahoma City	5	562	Quinnipiac	Oklahoma City	12
+2015	401546	2015-03-21	R64	554	Princeton	Spokane	8	794	Green Bay	Spokane	9
+2015	401548	2015-03-21	R64	587	Rutgers	Albany	8	635	Seton Hall	Albany	9
+2015	401537	2015-03-21	R64	651	South Fla.	Albany	6	365	LSU	Albany	11
+2015	401540	2015-03-21	R64	674	Stanford	Oklahoma City	4	101	CSUN	Oklahoma City	13
+2015	401539	2015-03-21	R64	694	Tennessee	Spokane	2	66	Boise St.	Spokane	15
+2015	401554	2015-03-21	R64	697	Texas A&M	Greensboro	6	32	Little Rock	Greensboro	11
+2015	401536	2015-03-21	R64	164	UConn	Albany	1	599	St. Francis Brooklyn	Albany	16
+2015	401508	2015-03-20	R64	509	Northwestern	Oklahoma City	7	31	Arkansas	Oklahoma City	10
+2015	401562	2015-03-22	R32	51	Baylor	Oklahoma City	2	31	Arkansas	Oklahoma City	10
+2015	401556	2015-03-22	R32	107	California	Albany	4	703	Texas	Albany	5
+2015	401558	2015-03-22	R32	193	Duke	Spokane	4	430	Mississippi St.	Spokane	5
+2015	401561	2015-03-22	R32	312	Iowa	Oklahoma City	3	415	Miami (FL)	Oklahoma City	11
+2015	401557	2015-03-22	R32	334	Kentucky	Albany	2	175	Dayton	Albany	7
+2015	401559	2015-03-22	R32	528	Oregon St.	Spokane	3	260	Gonzaga	Spokane	11
+2015	401563	2015-03-22	R32	648	South Carolina	Greensboro	1	688	Syracuse	Greensboro	8
+2015	401560	2015-03-22	R32	513	Notre Dame	Oklahoma City	1	176	DePaul	Oklahoma City	9
+2015	401585	2015-03-23	R32	674	Stanford	Oklahoma City	4	522	Oklahoma	Oklahoma City	5
+2015	401584	2015-03-23	R32	694	Tennessee	Spokane	2	545	Pittsburgh	Spokane	10
+2015	401581	2015-03-23	R32	164	UConn	Albany	1	587	Rutgers	Albany	8
+2015	401587	2015-03-23	R32	28	Arizona St.	Greensboro	3	32	Little Rock	Greensboro	11
+2015	401588	2015-03-23	R32	234	Florida St.	Greensboro	2	28755	FGCU	Greensboro	7
+2015	401582	2015-03-23	R32	367	Louisville	Albany	3	651	South Fla.	Albany	6
+2015	401583	2015-03-23	R32	392	Maryland	Spokane	1	554	Princeton	Spokane	8
+2015	401586	2015-03-23	R32	457	North Carolina	Greensboro	4	518	Ohio St.	Greensboro	5
+2015	401613	2015-03-28	S16	367	Louisville	Albany	3	175	Dayton	Albany	7
+2015	401614	2015-03-28	S16	392	Maryland	Spokane	1	193	Duke	Spokane	4
+2015	401615	2015-03-28	S16	694	Tennessee	Spokane	2	260	Gonzaga	Spokane	11
+2015	401612	2015-03-28	S16	164	UConn	Albany	1	703	Texas	Albany	5
+2015	401610	2015-03-27	S16	51	Baylor	Oklahoma City	2	312	Iowa	Oklahoma City	3
+2015	401607	2015-03-27	S16	234	Florida St.	Greensboro	2	28	Arizona St.	Greensboro	3
+2015	401609	2015-03-27	S16	513	Notre Dame	Oklahoma City	1	674	Stanford	Oklahoma City	4
+2015	401608	2015-03-27	S16	648	South Carolina	Greensboro	1	457	North Carolina	Greensboro	4
+2015	401621	2015-03-29	E8	648	South Carolina	Greensboro	1	234	Florida St.	Greensboro	2
+2015	401622	2015-03-29	E8	513	Notre Dame	Oklahoma City	1	51	Baylor	Oklahoma City	2
+2015	401623	2015-03-30	E8	164	UConn	Albany	1	175	Dayton	Albany	7
+2015	401624	2015-03-30	E8	392	Maryland	Spokane	1	694	Tennessee	Spokane	2
+2015	401628	2015-04-05	F4	164	UConn	Albany	1	392	Maryland	Spokane	1
+2015	401629	2015-04-05	F4	513	Notre Dame	Oklahoma City	1	648	South Carolina	Greensboro	1
+2015	401630	2015-04-07	C2	164	UConn	Albany	1	513	Notre Dame	Oklahoma City	1
+2014	557216	2014-03-22	R64	51	Baylor	South Bend	2	772	Western Ky.	South Bend	15
+2014	557232	2014-03-22	R64	107	California	South Bend	7	236	Fordham	South Bend	10
+2014	557223	2014-03-22	R64	176	DePaul	Lincoln	7	522	Oklahoma	Lincoln	10
+2014	557212	2014-03-22	R64	193	Duke	Lincoln	2	792	Winthrop	Lincoln	15
+2014	557213	2014-03-22	R64	311	Iowa St.	Stanford	7	234	Florida St.	Stanford	10
+2014	557215	2014-03-22	R64	334	Kentucky	South Bend	3	810	Wright St.	South Bend	14
+2014	557226	2014-03-22	R64	490	NC State	Lincoln	5	77	BYU	Lincoln	12
+2014	557227	2014-03-22	R64	463	Nebraska	Lincoln	4	96	Fresno St.	Lincoln	13
+2014	557230	2014-03-22	R64	513	Notre Dame	South Bend	1	579	Robert Morris	South Bend	16
+2014	557233	2014-03-22	R64	521	Oklahoma St.	South Bend	5	28755	FGCU	South Bend	12
+2014	557214	2014-03-22	R64	559	Purdue	South Bend	4	5	Akron	South Bend	13
+2014	557224	2014-03-22	R64	603	St. John's (NY)	Louisville	8	657	Southern California	Louisville	9
+2014	557222	2014-03-22	R64	674	Stanford	Stanford	2	650	South Dakota	Stanford	15
+2014	557225	2014-03-22	R64	688	Syracuse	South Bend	6	693	Chattanooga	South Bend	11
+2014	557217	2014-03-22	R64	694	Tennessee	Louisville	1	508	Northwestern St.	Louisville	16
+2014	557231	2014-03-22	R64	736	Vanderbilt	South Bend	8	28	Arizona St.	South Bend	9
+2014	557258	2014-03-23	R64	175	Dayton	Stanford	6	235	Florida	Stanford	11
+2014	557257	2014-03-23	R64	257	Georgia	Lincoln	8	606	Saint Joseph's	Lincoln	9
+2014	557253	2014-03-23	R64	260	Gonzaga	Lincoln	6	317	James Madison	Lincoln	11
+2014	557240	2014-03-23	R64	312	Iowa	Louisville	6	386	Marist	Louisville	11
+2014	557241	2014-03-23	R64	365	LSU	Louisville	7	255	Georgia Tech	Louisville	10
+2014	557254	2014-03-23	R64	367	Louisville	Louisville	3	295	Idaho	Louisville	14
+2014	557239	2014-03-23	R64	392	Maryland	Louisville	4	725	Army West Point	Louisville	13
+2014	557251	2014-03-23	R64	416	Michigan St.	Stanford	5	270	Hampton	Stanford	12
+2014	557256	2014-03-23	R64	419	Middle Tenn.	Stanford	8	528	Oregon St.	Stanford	9
+2014	557237	2014-03-23	R64	457	North Carolina	Stanford	4	695	UT Martin	Stanford	13
+2014	557238	2014-03-23	R64	539	Penn St.	Stanford	3	782	Wichita St.	Stanford	14
+2014	557255	2014-03-23	R64	648	South Carolina	Stanford	1	101	CSUN	Stanford	16
+2014	557252	2014-03-23	R64	703	Texas	Louisville	5	540	Penn	Louisville	12
+2014	557236	2014-03-23	R64	697	Texas A&M	Lincoln	3	494	North Dakota	Lincoln	14
+2014	557249	2014-03-23	R64	164	UConn	Lincoln	1	553	Prairie View	Lincoln	16
+2014	557250	2014-03-23	R64	768	West Virginia	Louisville	2	14	Albany (NY)	Louisville	15
+2014	557271	2014-03-24	R32	51	Baylor	South Bend	2	107	California	South Bend	7
+2014	557268	2014-03-24	R32	193	Duke	Lincoln	2	176	DePaul	Lincoln	7
+2014	557270	2014-03-24	R32	334	Kentucky	South Bend	3	688	Syracuse	South Bend	6
+2014	557274	2014-03-24	R32	463	Nebraska	Lincoln	4	77	BYU	Lincoln	12
+2014	557275	2014-03-24	R32	513	Notre Dame	South Bend	1	28	Arizona St.	South Bend	9
+2014	557269	2014-03-24	R32	559	Purdue	South Bend	4	521	Oklahoma St.	South Bend	5
+2014	557273	2014-03-24	R32	674	Stanford	Stanford	2	234	Florida St.	Stanford	10
+2014	557272	2014-03-24	R32	694	Tennessee	Louisville	1	603	St. John's (NY)	Louisville	8
+2014	557281	2014-03-25	R32	367	Louisville	Louisville	3	312	Iowa	Louisville	7
+2014	557280	2014-03-25	R32	392	Maryland	Louisville	4	703	Texas	Louisville	5
+2014	557278	2014-03-25	R32	457	North Carolina	Stanford	4	416	Michigan St.	Stanford	5
+2014	557279	2014-03-25	R32	539	Penn St.	Stanford	3	235	Florida	Stanford	11
+2014	557287	2014-03-25	R32	648	South Carolina	Stanford	1	528	Oregon St.	Stanford	9
+2014	557277	2014-03-25	R32	697	Texas A&M	Lincoln	3	317	James Madison	Lincoln	11
+2014	557276	2014-03-25	R32	164	UConn	Lincoln	1	606	Saint Joseph's	Lincoln	9
+2014	557282	2014-03-25	R32	768	West Virginia	Louisville	2	365	LSU	Louisville	7
+2014	557305	2014-03-29	S16	51	Baylor	South Bend	2	334	Kentucky	South Bend	3
+2014	557301	2014-03-29	S16	513	Notre Dame	South Bend	1	521	Oklahoma St.	South Bend	5
+2014	557304	2014-03-29	S16	697	Texas A&M	Lincoln	3	176	DePaul	Lincoln	7
+2014	557303	2014-03-29	S16	164	UConn	Lincoln	1	77	BYU	Lincoln	12
+2014	557307	2014-03-30	S16	367	Louisville	Louisville	3	365	LSU	Louisville	7
+2014	557311	2014-03-30	S16	648	South Carolina	Stanford	1	457	North Carolina	Stanford	4
+2014	557306	2014-03-30	S16	674	Stanford	Stanford	2	539	Penn St.	Stanford	3
+2014	557310	2014-03-30	S16	694	Tennessee	Louisville	1	392	Maryland	Louisville	4
+2014	557313	2014-03-31	E8	513	Notre Dame	South Bend	1	51	Baylor	South Bend	2
+2014	557315	2014-03-31	E8	164	UConn	Lincoln	1	697	Texas A&M	Lincoln	3
+2014	557316	2014-04-01	E8	367	Louisville	Louisville	3	392	Maryland	Louisville	4
+2014	557317	2014-04-01	E8	674	Stanford	Stanford	2	457	North Carolina	Stanford	4
+2014	557322	2014-04-06	F4	513	Notre Dame	South Bend	1	392	Maryland	Louisville	4
+2014	557321	2014-04-06	F4	164	UConn	Lincoln	1	674	Stanford	Stanford	2
+2014	557323	2014-04-08	C2	164	UConn	Lincoln	1	513	Notre Dame	South Bend	1
+2013	638280	2013-03-23	R64	107	California	Spokane	2	96	Fresno St.	Spokane	15
+2013	638263	2013-03-23	R64	157	Colorado	Norfolk	5	328	Kansas	Norfolk	12
+2013	638281	2013-03-23	R64	257	Georgia	Spokane	4	441	Montana	Spokane	13
+2013	638261	2013-03-23	R64	311	Iowa St.	Spokane	5	260	Gonzaga	Spokane	12
+2013	638266	2013-03-23	R64	392	Maryland	Bridgeport	4	562	Quinnipiac	Bridgeport	13
+2013	638275	2013-03-23	R64	416	Michigan St.	Bridgeport	5	386	Marist	Bridgeport	12
+2013	638276	2013-03-23	R64	463	Nebraska	Norfolk	6	693	Chattanooga	Norfolk	11
+2013	638277	2013-03-23	R64	522	Oklahoma	Oklahoma City	6	129	Central Mich.	Oklahoma City	11
+2013	638274	2013-03-23	R64	648	South Carolina	Norfolk	4	649	South Dakota St.	Norfolk	13
+2013	638279	2013-03-23	R64	688	Syracuse	Oklahoma City	7	169	Creighton	Oklahoma City	10
+2013	638260	2013-03-23	R64	694	Tennessee	Oklahoma City	2	527	Oral Roberts	Oklahoma City	15
+2013	638264	2013-03-23	R64	697	Texas A&M	Norfolk	3	782	Wichita St.	Norfolk	14
+2013	638262	2013-03-23	R64	700	Texas Tech	Spokane	7	651	South Fla.	Spokane	10
+2013	638278	2013-03-23	R64	110	UCLA	Oklahoma City	3	678	Stetson	Oklahoma City	14
+2013	638265	2013-03-23	R64	164	UConn	Bridgeport	1	295	Idaho	Bridgeport	16
+2013	638282	2013-03-23	R64	736	Vanderbilt	Bridgeport	8	606	Saint Joseph's	Bridgeport	9
+2013	638297	2013-03-24	R64	51	Baylor	Oklahoma City	1	553	Prairie View	Oklahoma City	16
+2013	638296	2013-03-24	R64	175	Dayton	Bridgeport	7	603	St. John's (NY)	Bridgeport	10
+2013	638286	2013-03-24	R64	180	Delaware	Bridgeport	6	768	West Virginia	Bridgeport	11
+2013	638285	2013-03-24	R64	193	Duke	Norfolk	2	270	Hampton	Norfolk	15
+2013	638307	2013-03-24	R64	234	Florida St.	Oklahoma City	8	554	Princeton	Oklahoma City	9
+2013	638305	2013-03-24	R64	334	Kentucky	Bridgeport	2	726	Navy	Bridgeport	15
+2013	638284	2013-03-24	R64	365	LSU	Spokane	6	794	Green Bay	Spokane	11
+2013	638299	2013-03-24	R64	367	Louisville	Oklahoma City	5	419	Middle Tenn.	Oklahoma City	12
+2013	638298	2013-03-24	R64	415	Miami (FL)	Norfolk	8	312	Iowa	Norfolk	9
+2013	638306	2013-03-24	R64	418	Michigan	Spokane	8	739	Villanova	Spokane	9
+2013	638304	2013-03-24	R64	457	North Carolina	Bridgeport	3	14	Albany (NY)	Bridgeport	14
+2013	638302	2013-03-24	R64	513	Notre Dame	Norfolk	1	695	UT Martin	Norfolk	16
+2013	638301	2013-03-24	R64	521	Oklahoma St.	Norfolk	7	176	DePaul	Norfolk	10
+2013	638300	2013-03-24	R64	539	Penn St.	Spokane	3	90	Cal Poly	Spokane	14
+2013	638303	2013-03-24	R64	559	Purdue	Oklahoma City	4	355	Liberty	Oklahoma City	13
+2013	638283	2013-03-24	R64	674	Stanford	Spokane	1	719	Tulsa	Spokane	16
+2013	638318	2013-03-25	R32	107	California	Spokane	2	651	South Fla.	Spokane	10
+2013	638319	2013-03-25	R32	257	Georgia	Spokane	4	311	Iowa St.	Spokane	5
+2013	638315	2013-03-25	R32	392	Maryland	Bridgeport	4	416	Michigan St.	Bridgeport	5
+2013	638316	2013-03-25	R32	648	South Carolina	Norfolk	4	328	Kansas	Norfolk	12
+2013	638312	2013-03-25	R32	694	Tennessee	Oklahoma City	2	169	Creighton	Oklahoma City	10
+2013	638313	2013-03-25	R32	697	Texas A&M	Norfolk	3	463	Nebraska	Norfolk	6
+2013	638317	2013-03-25	R32	110	UCLA	Oklahoma City	3	522	Oklahoma	Oklahoma City	6
+2013	638314	2013-03-25	R32	164	UConn	Bridgeport	1	736	Vanderbilt	Bridgeport	8
+2013	638320	2013-03-26	R32	51	Baylor	Oklahoma City	1	234	Florida St.	Oklahoma City	8
+2013	638324	2013-03-26	R32	193	Duke	Norfolk	2	521	Oklahoma St.	Norfolk	7
+2013	638327	2013-03-26	R32	334	Kentucky	Bridgeport	2	175	Dayton	Bridgeport	7
+2013	638325	2013-03-26	R32	457	North Carolina	Bridgeport	3	180	Delaware	Bridgeport	6
+2013	638323	2013-03-26	R32	513	Notre Dame	Norfolk	1	312	Iowa	Norfolk	9
+2013	638322	2013-03-26	R32	539	Penn St.	Spokane	3	365	LSU	Spokane	6
+2013	638326	2013-03-26	R32	559	Purdue	Oklahoma City	4	367	Louisville	Oklahoma City	5
+2013	638321	2013-03-26	R32	674	Stanford	Spokane	1	418	Michigan	Spokane	8
+2013	638352	2013-03-30	S16	107	California	Spokane	2	365	LSU	Spokane	6
+2013	638351	2013-03-30	S16	334	Kentucky	Bridgeport	2	180	Delaware	Bridgeport	6
+2013	638353	2013-03-30	S16	674	Stanford	Spokane	1	257	Georgia	Spokane	4
+2013	638350	2013-03-30	S16	164	UConn	Bridgeport	1	392	Maryland	Bridgeport	4
+2013	638357	2013-03-31	S16	51	Baylor	Oklahoma City	1	367	Louisville	Oklahoma City	5
+2013	638355	2013-03-31	S16	193	Duke	Norfolk	2	463	Nebraska	Norfolk	6
+2013	638354	2013-03-31	S16	513	Notre Dame	Norfolk	1	328	Kansas	Norfolk	12
+2013	638356	2013-03-31	S16	694	Tennessee	Oklahoma City	2	522	Oklahoma	Oklahoma City	6
+2013	638360	2013-04-02	E8	513	Notre Dame	Norfolk	1	193	Duke	Norfolk	2
+2013	638361	2013-04-02	E8	694	Tennessee	Oklahoma City	2	367	Louisville	Oklahoma City	5
+2013	638359	2013-04-01	E8	107	California	Spokane	2	257	Georgia	Spokane	4
+2013	638358	2013-04-01	E8	164	UConn	Bridgeport	1	334	Kentucky	Bridgeport	2
+2013	638365	2013-04-07	F4	107	California	Spokane	2	367	Louisville	Oklahoma City	5
+2013	638366	2013-04-07	F4	513	Notre Dame	Norfolk	1	164	UConn	Bridgeport	1
+2013	638367	2013-04-09	C2	164	UConn	Bridgeport	1	367	Louisville	Oklahoma City	5
+2012	820595	2012-03-17	R64	31	Arkansas	Raleigh	6	175	Dayton	Raleigh	11
+2012	820584	2012-03-17	R64	176	DePaul	Des Moines	7	77	BYU	Des Moines	10
+2012	820585	2012-03-17	R64	794	Green Bay	Kingston	7	311	Iowa St.	Kingston	10
+2012	820591	2012-03-17	R64	327	Kansas St.	Kingston	8	554	Princeton	Kingston	9
+2012	820590	2012-03-17	R64	334	Kentucky	Kingston	2	402	McNeese	Kingston	15
+2012	820594	2012-03-17	R64	367	Louisville	Raleigh	7	416	Michigan St.	Raleigh	10
+2012	820578	2012-03-17	R64	392	Maryland	Raleigh	2	726	Navy	Raleigh	15
+2012	820600	2012-03-17	R64	415	Miami (FL)	Kingston	3	294	Idaho St.	Kingston	14
+2012	820579	2012-03-17	R64	559	Purdue	Fresno	4	649	South Dakota St.	Fresno	13
+2012	820581	2012-03-17	R64	587	Rutgers	Kingston	6	260	Gonzaga	Kingston	11
+2012	820601	2012-03-17	R64	648	South Carolina	Fresno	5	204	Eastern Mich.	Fresno	12
+2012	820598	2012-03-17	R64	674	Stanford	Fresno	1	270	Hampton	Fresno	16
+2012	820593	2012-03-17	R64	694	Tennessee	Des Moines	2	695	UT Martin	Des Moines	15
+2012	820583	2012-03-17	R64	697	Texas A&M	Raleigh	3	14	Albany (NY)	Raleigh	14
+2012	820592	2012-03-17	R64	164	UConn	Kingston	1	553	Prairie View	Kingston	16
+2012	820599	2012-03-17	R64	768	West Virginia	Fresno	8	703	Texas	Fresno	9
+2012	820620	2012-03-18	R64	51	Baylor	Des Moines	1	104	UC Santa Barbara	Des Moines	16
+2012	820626	2012-03-18	R64	107	California	Raleigh	8	312	Iowa	Raleigh	9
+2012	820624	2012-03-18	R64	193	Duke	Fresno	2	625	Samford	Fresno	15
+2012	820621	2012-03-18	R64	251	Georgetown	Des Moines	5	96	Fresno St.	Des Moines	12
+2012	820627	2012-03-18	R64	257	Georgia	Raleigh	4	386	Marist	Raleigh	13
+2012	820622	2012-03-18	R64	255	Georgia Tech	Des Moines	4	590	Sacred Heart	Des Moines	13
+2012	820615	2012-03-18	R64	365	LSU	Kingston	5	626	San Diego St.	Kingston	12
+2012	820612	2012-03-18	R64	32	Little Rock	Des Moines	14	180	Delaware	Des Moines	3
+2012	820623	2012-03-18	R64	463	Nebraska	Des Moines	6	328	Kansas	Des Moines	11
+2012	820604	2012-03-18	R64	513	Notre Dame	Raleigh	1	355	Liberty	Raleigh	16
+2012	820619	2012-03-18	R64	518	Ohio St.	Des Moines	8	235	Florida	Des Moines	9
+2012	820616	2012-03-18	R64	522	Oklahoma	Fresno	6	418	Michigan	Fresno	11
+2012	820618	2012-03-18	R64	539	Penn St.	Kingston	4	704	UTEP	Kingston	13
+2012	820628	2012-03-18	R64	596	St. Bonaventure	Raleigh	5	28755	FGCU	Raleigh	12
+2012	820625	2012-03-18	R64	603	St. John's (NY)	Fresno	3	169	Creighton	Fresno	14
+2012	820610	2012-03-18	R64	736	Vanderbilt	Fresno	7	419	Middle Tenn.	Fresno	10
+2012	820638	2012-03-19	R32	334	Kentucky	Kingston	2	794	Green Bay	Kingston	7
+2012	820630	2012-03-19	R32	392	Maryland	Raleigh	2	367	Louisville	Raleigh	7
+2012	820634	2012-03-19	R32	415	Miami (FL)	Kingston	3	260	Gonzaga	Kingston	11
+2012	820631	2012-03-19	R32	559	Purdue	Fresno	4	648	South Carolina	Fresno	5
+2012	820640	2012-03-19	R32	674	Stanford	Fresno	1	768	West Virginia	Fresno	8
+2012	820636	2012-03-19	R32	694	Tennessee	Des Moines	2	176	DePaul	Des Moines	7
+2012	820635	2012-03-19	R32	697	Texas A&M	Raleigh	3	31	Arkansas	Raleigh	6
+2012	820639	2012-03-19	R32	164	UConn	Kingston	1	327	Kansas St.	Kingston	8
+2012	820646	2012-03-20	R32	51	Baylor	Des Moines	1	235	Florida	Des Moines	9
+2012	820648	2012-03-20	R32	180	Delaware	Des Moines	3	328	Kansas	Des Moines	11
+2012	820644	2012-03-20	R32	193	Duke	Fresno	2	736	Vanderbilt	Fresno	7
+2012	820647	2012-03-20	R32	255	Georgia Tech	Des Moines	4	251	Georgetown	Des Moines	5
+2012	820641	2012-03-20	R32	513	Notre Dame	Raleigh	1	107	California	Raleigh	8
+2012	820645	2012-03-20	R32	522	Oklahoma	Fresno	6	603	St. John's (NY)	Fresno	3
+2012	820643	2012-03-20	R32	539	Penn St.	Kingston	4	365	LSU	Kingston	5
+2012	820653	2012-03-20	R32	596	St. Bonaventure	Raleigh	5	386	Marist	Raleigh	13
+2012	820667	2012-03-24	S16	51	Baylor	Des Moines	1	255	Georgia Tech	Des Moines	4
+2012	820670	2012-03-24	S16	193	Duke	Fresno	2	603	St. John's (NY)	Fresno	3
+2012	820669	2012-03-24	S16	674	Stanford	Fresno	1	648	South Carolina	Fresno	5
+2012	820668	2012-03-24	S16	694	Tennessee	Des Moines	2	328	Kansas	Des Moines	11
+2012	820675	2012-03-25	S16	334	Kentucky	Kingston	2	260	Gonzaga	Kingston	11
+2012	820677	2012-03-25	S16	392	Maryland	Raleigh	2	697	Texas A&M	Raleigh	3
+2012	820678	2012-03-25	S16	513	Notre Dame	Raleigh	1	596	St. Bonaventure	Raleigh	5
+2012	820676	2012-03-25	S16	164	UConn	Kingston	1	539	Penn St.	Kingston	4
+2012	820679	2012-03-26	E8	51	Baylor	Des Moines	1	694	Tennessee	Des Moines	2
+2012	820680	2012-03-26	E8	674	Stanford	Fresno	1	193	Duke	Fresno	2
+2012	820682	2012-03-27	E8	513	Notre Dame	Raleigh	1	392	Maryland	Raleigh	2
+2012	820681	2012-03-27	E8	164	UConn	Kingston	1	334	Kentucky	Kingston	2
+2012	820688	2012-04-03	C2	51	Baylor	Des Moines	1	513	Notre Dame	Raleigh	1
+2012	820687	2012-04-01	F4	51	Baylor	Des Moines	1	674	Stanford	Fresno	1
+2012	820686	2012-04-01	F4	513	Notre Dame	Raleigh	1	164	UConn	Kingston	1
+2011	893389	2011-03-19	R64	28	Arizona St.	Dayton	7	690	Temple	Dayton	10
+2011	893392	2011-03-19	R64	176	DePaul	Philadelphia	3	726	Navy	Philadelphia	14
+2011	893372	2011-03-19	R64	193	Duke	Philadelphia	2	695	UT Martin	Philadelphia	15
+2011	893385	2011-03-19	R64	255	Georgia Tech	Dayton	5	71	Bowling Green	Dayton	12
+2011	893375	2011-03-19	R64	260	Gonzaga	Spokane	11	312	Iowa	Spokane	6
+2011	893386	2011-03-19	R64	311	Iowa St.	Philadelphia	7	386	Marist	Philadelphia	10
+2011	893383	2011-03-19	R64	334	Kentucky	Spokane	4	270	Hampton	Spokane	13
+2011	893387	2011-03-19	R64	387	Marquette	Dayton	8	703	Texas	Dayton	9
+2011	893382	2011-03-19	R64	457	North Carolina	Spokane	5	96	Fresno St.	Spokane	12
+2011	893370	2011-03-19	R64	518	Ohio St.	Dayton	4	128	UCF	Dayton	13
+2011	893379	2011-03-19	R64	539	Penn St.	Philadelphia	6	175	Dayton	Philadelphia	11
+2011	893377	2011-03-19	R64	674	Stanford	Spokane	1	108	UC Davis	Spokane	16
+2011	893374	2011-03-19	R64	694	Tennessee	Dayton	1	678	Stetson	Dayton	16
+2011	893391	2011-03-19	R64	700	Texas Tech	Spokane	8	603	St. John's (NY)	Spokane	9
+2011	893390	2011-03-19	R64	110	UCLA	Spokane	3	441	Montana	Spokane	14
+2011	893388	2011-03-19	R64	732	Utah	Dayton	15	513	Notre Dame	Dayton	2
+2011	893406	2011-03-20	R64	51	Baylor	Dallas	1	553	Prairie View	Dallas	16
+2011	893407	2011-03-20	R64	234	Florida St.	Dallas	3	625	Samford	Dallas	14
+2011	893414	2011-03-20	R64	251	Georgetown	Philadelphia	5	554	Princeton	Philadelphia	12
+2011	893408	2011-03-20	R64	257	Georgia	Dallas	6	419	Middle Tenn.	Dallas	11
+2011	893418	2011-03-20	R64	794	Green Bay	Dallas	5	32	Little Rock	Dallas	12
+2011	893416	2011-03-20	R64	288	Houston	Dallas	8	768	West Virginia	Dallas	9
+2011	893415	2011-03-20	R64	327	Kansas St.	Philadelphia	8	559	Purdue	Philadelphia	9
+2011	893413	2011-03-20	R64	367	Louisville	Spokane	7	736	Vanderbilt	Spokane	10
+2011	893403	2011-03-20	R64	392	Maryland	Philadelphia	4	600	Saint Francis (PA)	Philadelphia	13
+2011	893411	2011-03-20	R64	415	Miami (FL)	Dayton	3	1092	Gardner-Webb	Dayton	14
+2011	893417	2011-03-20	R64	416	Michigan St.	Dallas	4	504	UNI	Dallas	13
+2011	893412	2011-03-20	R64	522	Oklahoma	Dayton	6	317	James Madison	Dayton	11
+2011	893410	2011-03-20	R64	587	Rutgers	Dallas	7	366	Louisiana Tech	Dallas	10
+2011	893409	2011-03-20	R64	697	Texas A&M	Dallas	2	402	McNeese	Dallas	15
+2011	893396	2011-03-20	R64	164	UConn	Philadelphia	1	272	Hartford	Philadelphia	16
+2011	893398	2011-03-20	R64	812	Xavier	Spokane	2	649	South Dakota St.	Spokane	15
+2011	893422	2011-03-21	R32	193	Duke	Philadelphia	2	386	Marist	Philadelphia	10
+2011	893427	2011-03-21	R32	260	Gonzaga	Spokane	11	110	UCLA	Spokane	3
+2011	893431	2011-03-21	R32	334	Kentucky	Spokane	4	457	North Carolina	Spokane	5
+2011	893432	2011-03-21	R32	513	Notre Dame	Dayton	2	690	Temple	Dayton	10
+2011	893420	2011-03-21	R32	518	Ohio St.	Dayton	4	255	Georgia Tech	Dayton	5
+2011	893423	2011-03-21	R32	539	Penn St.	Philadelphia	6	176	DePaul	Philadelphia	3
+2011	893430	2011-03-21	R32	674	Stanford	Spokane	1	603	St. John's (NY)	Spokane	9
+2011	893426	2011-03-21	R32	694	Tennessee	Dayton	1	387	Marquette	Dayton	8
+2011	893433	2011-03-22	R32	51	Baylor	Dallas	1	768	West Virginia	Dallas	9
+2011	893438	2011-03-22	R32	234	Florida St.	Dallas	3	257	Georgia	Dallas	6
+2011	893435	2011-03-22	R32	392	Maryland	Philadelphia	4	251	Georgetown	Philadelphia	5
+2011	893440	2011-03-22	R32	415	Miami (FL)	Dayton	3	522	Oklahoma	Dayton	6
+2011	893445	2011-03-22	R32	416	Michigan St.	Dallas	4	794	Green Bay	Dallas	5
+2011	893439	2011-03-22	R32	697	Texas A&M	Dallas	2	587	Rutgers	Dallas	7
+2011	893437	2011-03-22	R32	164	UConn	Philadelphia	1	559	Purdue	Philadelphia	9
+2011	893436	2011-03-22	R32	812	Xavier	Spokane	2	367	Louisville	Spokane	7
+2011	893461	2011-03-26	S16	367	Louisville	Spokane	7	260	Gonzaga	Spokane	11
+2011	893459	2011-03-26	S16	513	Notre Dame	Dayton	2	522	Oklahoma	Dayton	6
+2011	893462	2011-03-26	S16	674	Stanford	Spokane	1	457	North Carolina	Spokane	5
+2011	893460	2011-03-26	S16	694	Tennessee	Dayton	1	518	Ohio St.	Dayton	4
+2011	893468	2011-03-27	S16	51	Baylor	Dallas	1	794	Green Bay	Dallas	5
+2011	893469	2011-03-27	S16	193	Duke	Philadelphia	2	176	DePaul	Philadelphia	3
+2011	893467	2011-03-27	S16	697	Texas A&M	Dallas	2	257	Georgia	Dallas	6
+2011	893470	2011-03-27	S16	164	UConn	Philadelphia	1	251	Georgetown	Philadelphia	5
+2011	893473	2011-03-29	E8	51	Baylor	Dallas	1	697	Texas A&M	Dallas	2
+2011	893474	2011-03-29	E8	164	UConn	Philadelphia	1	193	Duke	Philadelphia	2
+2011	893472	2011-03-28	E8	674	Stanford	Spokane	1	260	Gonzaga	Spokane	11
+2011	893471	2011-03-28	E8	694	Tennessee	Dayton	1	513	Notre Dame	Dayton	2
+2011	893480	2011-04-05	C2	697	Texas A&M	Dallas	2	513	Notre Dame	Dayton	2
+2011	893478	2011-04-03	F4	674	Stanford	Spokane	1	697	Texas A&M	Dallas	2
+2011	893479	2011-04-03	F4	164	UConn	Philadelphia	1	513	Notre Dame	Dayton	2
+2010	1358695	2010-03-20	R64	51	Baylor	Memphis	4	96	Fresno St.	Memphis	13
+2010	1358700	2010-03-20	R64	175	Dayton	Memphis	8	698	TCU	Memphis	9
+2010	1358692	2010-03-20	R64	193	Duke	Memphis	2	270	Hampton	Memphis	15
+2010	1358691	2010-03-20	R64	234	Florida St.	Dayton	3	366	Louisiana Tech	Dayton	14
+2010	1358696	2010-03-20	R64	251	Georgetown	Memphis	5	386	Marist	Memphis	12
+2010	1358707	2010-03-20	R64	257	Georgia	Sacramento	5	718	Tulane	Sacramento	12
+2010	1358704	2010-03-20	R64	260	Gonzaga	Sacramento	7	457	North Carolina	Sacramento	10
+2010	1358705	2010-03-20	R64	312	Iowa	Sacramento	8	587	Rutgers	Sacramento	9
+2010	1358701	2010-03-20	R64	334	Kentucky	Kansas City	4	355	Liberty	Kansas City	13
+2010	1358699	2010-03-20	R64	365	LSU	Memphis	7	272	Hartford	Memphis	10
+2010	1358702	2010-03-20	R64	416	Michigan St.	Kansas City	7	71	Bowling Green	Kansas City	10
+2010	1358708	2010-03-20	R64	521	Oklahoma St.	Sacramento	4	693	Chattanooga	Sacramento	13
+2010	1358706	2010-03-20	R64	603	St. John's (NY)	Dayton	6	554	Princeton	Dayton	11
+2010	1358694	2010-03-20	R64	674	Stanford	Sacramento	1	111	UC Riverside	Sacramento	16
+2010	1358693	2010-03-20	R64	694	Tennessee	Memphis	1	43	Austin Peay	Memphis	16
+2010	1358703	2010-03-20	R64	697	Texas A&M	Sacramento	2	550	Portland St.	Sacramento	15
+2010	1358734	2010-03-21	R64	255	Georgia Tech	Kansas City	6	32	Little Rock	Kansas City	11
+2010	1358711	2010-03-21	R64	311	Iowa St.	Dayton	4	352	Lehigh	Dayton	13
+2010	1358736	2010-03-21	R64	430	Mississippi St.	Dayton	7	419	Middle Tenn.	Dayton	10
+2010	1358730	2010-03-21	R64	463	Nebraska	Kansas City	1	504	UNI	Kansas City	16
+2010	1358723	2010-03-21	R64	513	Notre Dame	Kansas City	2	148	Cleveland St.	Kansas City	15
+2010	1358737	2010-03-21	R64	518	Ohio St.	Dayton	2	600	Saint Francis (PA)	Dayton	15
+2010	1358724	2010-03-21	R64	522	Oklahoma	Kansas City	3	649	South Dakota St.	Kansas City	14
+2010	1358733	2010-03-21	R64	690	Temple	Dayton	8	317	James Madison	Dayton	9
+2010	1358712	2010-03-21	R64	703	Texas	Memphis	6	626	San Diego St.	Memphis	11
+2010	1358731	2010-03-21	R64	110	UCLA	Kansas City	8	490	NC State	Kansas City	9
+2010	1358732	2010-03-21	R64	164	UConn	Dayton	1	665	Southern U.	Dayton	16
+2010	1358729	2010-03-21	R64	736	Vanderbilt	Sacramento	6	176	DePaul	Sacramento	11
+2010	1358727	2010-03-21	R64	746	Virginia	Dayton	5	794	Green Bay	Dayton	12
+2010	1358728	2010-03-21	R64	768	West Virginia	Memphis	3	346	Lamar University	Memphis	14
+2010	1358735	2010-03-21	R64	796	Wisconsin	Kansas City	7	738	Vermont	Kansas City	10
+2010	1358716	2010-03-21	R64	812	Xavier	Sacramento	3	198	ETSU	Sacramento	14
+2010	1358746	2010-03-22	R32	51	Baylor	Memphis	4	251	Georgetown	Memphis	5
+2010	1358740	2010-03-22	R32	193	Duke	Memphis	2	365	LSU	Memphis	7
+2010	1358741	2010-03-22	R32	234	Florida St.	Dayton	3	603	St. John's (NY)	Dayton	6
+2010	1358747	2010-03-22	R32	334	Kentucky	Kansas City	4	416	Michigan St.	Kansas City	5
+2010	1358751	2010-03-22	R32	521	Oklahoma St.	Sacramento	4	257	Georgia	Sacramento	5
+2010	1358739	2010-03-22	R32	674	Stanford	Sacramento	1	312	Iowa	Sacramento	8
+2010	1358744	2010-03-22	R32	694	Tennessee	Memphis	1	175	Dayton	Memphis	8
+2010	1358748	2010-03-22	R32	697	Texas A&M	Sacramento	2	260	Gonzaga	Sacramento	7
+2010	1358752	2010-03-23	R32	311	Iowa St.	Dayton	4	794	Green Bay	Dayton	12
+2010	1358761	2010-03-23	R32	463	Nebraska	Kansas City	1	110	UCLA	Kansas City	8
+2010	1358753	2010-03-23	R32	513	Notre Dame	Kansas City	2	738	Vermont	Kansas City	10
+2010	1358763	2010-03-23	R32	518	Ohio St.	Dayton	2	430	Mississippi St.	Dayton	7
+2010	1358754	2010-03-23	R32	522	Oklahoma	Kansas City	3	32	Little Rock	Kansas City	11
+2010	1358762	2010-03-23	R32	164	UConn	Dayton	1	690	Temple	Dayton	8
+2010	1358760	2010-03-23	R32	768	West Virginia	Memphis	3	626	San Diego St.	Memphis	11
+2010	1358755	2010-03-23	R32	812	Xavier	Sacramento	3	736	Vanderbilt	Sacramento	6
+2010	1358781	2010-03-27	S16	193	Duke	Memphis	2	626	San Diego St.	Memphis	11
+2010	1358783	2010-03-27	S16	674	Stanford	Sacramento	1	257	Georgia	Sacramento	5
+2010	1358780	2010-03-27	S16	694	Tennessee	Memphis	1	51	Baylor	Memphis	4
+2010	1358782	2010-03-27	S16	812	Xavier	Sacramento	3	260	Gonzaga	Sacramento	7
+2010	1358789	2010-03-28	S16	234	Florida St.	Dayton	3	430	Mississippi St.	Dayton	7
+2010	1358791	2010-03-28	S16	463	Nebraska	Kansas City	1	334	Kentucky	Kansas City	4
+2010	1358790	2010-03-28	S16	513	Notre Dame	Kansas City	2	522	Oklahoma	Kansas City	3
+2010	1358788	2010-03-28	S16	164	UConn	Dayton	1	311	Iowa St.	Dayton	4
+2010	1358795	2010-03-30	E8	522	Oklahoma	Kansas City	3	334	Kentucky	Kansas City	4
+2010	1358794	2010-03-30	E8	164	UConn	Dayton	1	234	Florida St.	Dayton	3
+2010	1358792	2010-03-29	E8	193	Duke	Memphis	2	51	Baylor	Memphis	4
+2010	1358793	2010-03-29	E8	674	Stanford	Sacramento	1	812	Xavier	Sacramento	3
+2010	1358801	2010-04-06	C2	164	UConn	Dayton	1	674	Stanford	Sacramento	1
+2010	1358799	2010-04-04	F4	674	Stanford	Sacramento	1	522	Oklahoma	Kansas City	3
+2010	1358800	2010-04-04	F4	164	UConn	Dayton	1	51	Baylor	Memphis	4
