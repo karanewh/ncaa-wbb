@@ -79,8 +79,6 @@ season_records_2021_22 <- read_csv("../data/herhoopstats/season_record_2021_22.c
 ### Graphic Table
 ### Chattter: 15 schools have won NCAA titles since the first women's basketball championship in 1982. Four programs have added to their title count in the last five championships, but UConn and Tennessee still lead the pack.
 ```{r}
-
-
 # Get title count
 title_count <- ncaa_champs %>% 
   group_by(champion) %>% 
@@ -107,12 +105,20 @@ final_four_2 <- tournament_2010_2021 %>%
   group_by(team_2_name) %>% 
   count()
 
+team  <- c("South Carolina", "Louisville", "Stanford", "UConn")
+add_one_for_2022 <- c(1, 1, 1, 1)
+ff_2022 <- data.frame(team, add_one_for_2022) 
+
 final_four_count <- final_four_1 %>% 
   right_join(final_four_2, by = c("team_1_name" = "team_2_name")) %>%
+  left_join(ff_2022, by = c("team_1_name" = "team"))%>% 
   replace(is.na(.), 0) %>% 
-  mutate(n = n.x+n.y, team = team_1_name) %>% 
-  select(team, n) %>% 
-  arrange(desc(n))
+  mutate(n = n.x+n.y+add_one_for_2022) %>% 
+  select(team_1_name, n) %>% 
+  rename(team = team_1_name) %>% 
+  arrange(desc(n)) %>% 
+  filter(team %in% champions)
+
 
 # Get 2021-22 season records for championship programs
 champs_season_records <- season_records_2021_22 %>% 
@@ -156,6 +162,7 @@ print(hhs_min_max_champs)
 write_csv(title_count, "../data/processed/etl_title_count.csv")
 write_csv(season_record_22, "../data/processed/etl_season_record_22.csv")
 write_csv(hhs_min_max_champs, "../data/processed/etl_hhs_min_max_champs.csv")
+write_csv(final_four_count, "../data/processed/etl_final_four_count.csv")
 ```
 
 -30-
