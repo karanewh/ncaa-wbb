@@ -63,22 +63,63 @@ hhs_40 <- read_csv("../data/herhoopstats/hhs_rating_40_above.csv") %>%
 hhs_champs <- read_csv("../data/herhoopstats/hhs_champs_all_ratings.csv") %>% 
   clean_names()
 
+
+# Load NCAA tournament data from 2010-2021.
+tournament_2010_2021 <- read_tsv("../data/ncaa_tournament_games_20220316.tsv")
+
+# Load season records for 2021-22
+season_records_2021_22 <- read_csv("../data/herhoopstats/season_record_2021_22.csv") %>% 
+  clean_names()
 ```
 
 ## Analysis & Graphics
 ### Bar chart: NCAA Championships by Program
-### Chattter: 15 schools have won NCAA titles since the first women's basketball championship in 1982. Four programs have added to their title count in the last five championships, but UConn and Tennessee still lead the pack."
+### Chattter: "
 
+### Graphic Table
+### Chattter: 15 schools have won NCAA titles since the first women's basketball championship in 1982. Four programs have added to their title count in the last five championships, but UConn and Tennessee still lead the pack.
 ```{r}
+
+
+# Get title count
 title_count <- ncaa_champs %>% 
   group_by(champion) %>% 
   count() %>% 
   filter(champion !="Canceled due to Covid-19") %>% 
   arrange(desc(n))
 
-print(title_count$champion)
+# Define a list of the 15 NCAA championship programs
+champions = c("Connecticut", "UConn", "Tennessee", "Baylor", "Stanford", "Louisiana Tech", "Notre Dame", "South Carolina", "Southern California", "Maryland", "North Carolina", "Old Dominion", "Purdue", "Texas", "Texas A&M", "Texas Tech")
+
+# Get years
+years <- ncaa_champs %>% 
+  filter(champion %in% champions) %>% 
+  arrange(champion, year)
+
+# Get Final Four appearances since 2010
+final_four_1 <- tournament_2010_2021 %>% 
+  filter(round == "F4") %>% 
+  group_by(team_1_name) %>% 
+  count()
+
+final_four_2 <- tournament_2010_2021 %>% 
+  filter(round == "F4") %>% 
+  group_by(team_2_name) %>% 
+  count()
+
+final_four_count <- final_four_1 %>% 
+  right_join(final_four_2, by = c("team_1_name" = "team_2_name")) %>%
+  replace(is.na(.), 0) %>% 
+  mutate(n = n.x+n.y, team = team_1_name) %>% 
+  select(team, n) %>% 
+  arrange(desc(n))
+
+# Get 2021-22 season records for championship programs
+champs_season_records <- season_records_2021_22 %>% 
+  filter(team %in% champions)
 
 ```
+
 
 
 ### Line chart: HHS Ratings of NCAA Champions
@@ -107,19 +148,7 @@ hhs_min_max_champs <- hhs_champs %>%
 print(hhs_min_max_champs)
 ```
 
-### Graphic Table
-### Chattter: ?
-```{r}
-champions = c("UConn", "Tennessee", "Baylor", "Stanford", "Louisiana Tech", "Notre Dame", "South Carolina", "Southern California", "Maryland", "North Carolina", "Old Dominion", "Purdue", "Texas", "Texas A&M", "Texas Tech")
 
-season_record_22 <- read_csv("../data/herhoopstats/season_record_2021_22.csv") %>% 
-  clean_names() %>% 
-  filter(team %in% champions)
-
-
-  
-  
-```
 
 
 # Export
