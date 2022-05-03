@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Kara Newhouse Data Viz Final Project</title>
+ <meta name="author" content="Kara Newhouse">
+
+ <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+  <!--Chart.js JS CDN-->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
+
+  <!-- My styles -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=source-serif-pro" rel="stylesheet">
+
+
+</head>
+
+
+
+<body>
+
+<!-- Splash area -->
+  <div class="header">Is this what parity looks like?</div>
+
+<!-- Open container -->
+  <div class="container">
+    <p class="dek">There's more to NCAA women's basketball than UConn</p>
+    <div id="byline">BY <a href="https://twitter.com/KaraNewhouse" target="_new">KARA NEWHOUSE</a> | MAY 3, 2022</br></div>
+    <p class="intro1">For most of the 2010s, the University of Connecticut dominated women's college basketball. The Huskies have won 11 NCAA championships — the most of any program  — all with Coach Geno Auriemma at the helm.</p>
+    <p class="intro2">When current WNBA superstar Breanna Stewart played for UConn from 2013-2016, the team won four consecutive titles. Back then, it wasn't hard to find someone asking whether UConn’s success was “bad for women’s basketball.” But it's been six years since UConn won a national title.<br>Is UConn on the decline? Have other programs leveled up? What's the state of play in college women's basketball?</p>
+    <img class="center" src="images/ncaa-champs-1982-2022.png">
+
+  <div class="row">
+
+    <div class="story">
+
+    <div class="row story-text">
+
+        <p>For Coral Zayas, the best parts of distance learning were live lessons and seeing her students interact during the ‘Fun Friday’ game hours she hosted.</p>
+        <p>Those experiences came late, though. Many districts, including the one where Zayas teaches, had a delay between closing schools and starting live instruction, as they worked to distribute computers and tablets to students.</p>
+
+        <!-- line chart for overall HHS ratings -->
+        <div class="chartContainer">
+          <canvas id="hhsRatings"></canvas>
+          <div class="source">Source: <a href="https://herhoopstats.com/">Her Hoop Stats</a></div>
+        </div>
+
+        <script src="hhs-overall-line.js"></script>
+
+
+        <!-- line chart for offensive HHS ratings -->
+        <div class="chartContainer">
+          <canvas id="offensive"></canvas>
+          <div class="source">Source: <a href="https://herhoopstats.com/">Her Hoop Stats</a></div>
+        </div>
+
+        <script src="hhs-off-line.js"></script>
+
+        <!-- line chart for defensive HHS ratings -->
+        <div class="chartContainer">
+          <canvas id="defensive"></canvas>
+          <div class="source">Source: <a href="https://herhoopstats.com/">Her Hoop Stats</a></div>
+        </div>
+
+        <script src="hhs-def-line.js"></script>
+
+
+    </div>
+    <div class="flourish-embed flourish-scatter" data-src="visualisation/9687093">
+      <script src="https://public.flourish.studio/resources/embed.js"></script>
+    </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+  </div>
+
+
+
+
+
+
+
+
+
+<!-- Footer -->
+  <div class="footer">
+    <span>Kara Newhouse | Philip Merill College of Journalism | 2022</span>
+  </div>
+
+
+ <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+ <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</body>
+</html>
