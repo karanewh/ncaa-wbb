@@ -1,8 +1,5 @@
 
 /* Splash area */
-.hero-container {
-  position:relative;
-}
 
 .header {
   font-size: 3em;
@@ -33,102 +30,40 @@
   margin: 25px 25px 10px;
 }
 
-.intro2 {
+p {
   font-size: 1.2em;
   font-family: 'Oswald', sans-serif;
-  margin: 0px 25px 40px;
-}
-
-p {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1em;
   line-height: 180%;
+  margin: 0px 25px 15px;
 }
 
-img.center {
-  float: center;
-  width: 800px;
-}
-
-img.right {
-  float: right;
-}
-
-img.left {
-  float: left;
+/* Photos and static graphics*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 
-
-.text-white {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.5em;
-  font-weight: 700;
-  color: white;
-  letter-spacing: .04em;
-  word-spacing: .1em;
-}
 
 /* Line charts */
 .chartContainer {
-    width:800px;
+    width: 80%;
+
 }
 
+
 .source{
-    font-family: helvetica, sans-serif;
+    font-family: Oswald, sans-serif;
     font-size: .75em;
     margin-left:15px;
     margin-top:10px;
-    font-style: italic;
 }
-
 
 
 /*Media queries*/
-
-  img.right {
-    padding-left: 5px;
-  }
-
-  img.left {
-    padding-right: 5px;
-  }
-}
-
 @media(max-width:700px) {
-  img.nav-logo{
-    width: 125px;
-    padding-left: 0px;
-  }
-
-  img.right {
-    display: none;
-    margin: auto;
-  }
-
-  img.left {
-    display: none;
-    float: left;
-  }
-
-  img.center {
-    display: none;
-    float: center;
-  }
-
-
-  .left-margin {
-    margin-left: 10px;
-  }
-
-  img.img-read {
-    max-width: 100px;
-    padding-top: 5px;
-  }
-
-  .story-text {
-    margin-bottom: 20px;
-  }
 
   .dek {
     font-size: 1.7em;
@@ -145,9 +80,6 @@ img.left {
     font-size: 1em;
   }
 
-  .infographic {
-    padding-bottom: 40px;
-  }
 }
 
 /*Footer*/
