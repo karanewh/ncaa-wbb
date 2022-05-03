@@ -51,6 +51,7 @@ var myChart = new Chart(ctx, {
     },
     options: {
         responsive: true,
+        maintainAspectRatio: false,
         interaction: {
             intersect: false,
             mode: 'index',
