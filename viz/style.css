@@ -21,17 +21,23 @@
   font-family: 'Oswald', sans-serif;
   font-size: 1.15em;
   line-height: 1.5;
-  padding: 20px 175px 0px;
+  margin: 0px 25px 15px;
 }
 
 .intro1 {
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-family: 'Oswald', sans-serif;
   margin: 25px 25px 10px;
 }
 
+.intro2 {
+  font-size: 1.5em;
+  font-family: 'Oswald', sans-serif;
+  margin: 0px 25px 15px;
+}
+
 p {
-  font-size: 1.2em;
+  font-size: 1em;
   font-family: 'Oswald', sans-serif;
   line-height: 180%;
   margin: 0px 25px 15px;
@@ -53,6 +59,9 @@ img {
 
 }
 
+.center {
+  justify-content: center;
+}
 
 .source{
     font-family: Oswald, sans-serif;
