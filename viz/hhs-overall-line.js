@@ -59,16 +59,17 @@ var myChart = new Chart(ctx, {
         plugins: {
             title: {
                 display: true,
-                text: 'The disappearing gap between UConn and other NCAA champions',
+                text: 'A disappearing gap between UConn and other NCAA champions',
                 font: {
-                    size: 18
-                }
+                    size: 24,
+                    family: 'Oswald',
+                },
             },
         },
         scales: {
             x: {
               title:{
-                display: true,
+                display: false,
                 text: 'Season',
               }
             },

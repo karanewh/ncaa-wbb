@@ -61,7 +61,8 @@ var myChart = new Chart(ctx, {
                 display: true,
                 text: 'HHS Defensive Ratings',
                 font: {
-                    size: 18
+                    size: 18,
+                    family: 'Oswald',
                 }
             },
             subtitle: {
@@ -79,7 +80,7 @@ var myChart = new Chart(ctx, {
             y: {
                 beginatZero: false,
                 min: 50,
-                max: 130,
+                max: 110,
                 title:{
                   display: false,
                   text: 'Her Hoop Stats Rating',
