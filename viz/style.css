@@ -60,7 +60,7 @@ img {
 /* Line charts */
 .chartContainer {
   width: 80%;
-
+  margin-bottom: 40px;
 }
 
 .height {

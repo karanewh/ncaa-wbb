@@ -65,19 +65,21 @@ var myChart = new Chart(ctx, {
                 }
             },
             subtitle: {
-                display: true,
+                display: false,
                 text: ["ABCDEF"],
             }
         },
         scales: {
             x: {
               title:{
-                display: true,
+                display: false,
                 text: 'Season',
               }
             },
             y: {
-                beginAtZero: true,
+                beginAtZero: false,
+                min: 50,
+                max: 130,
                 title:{
                   display: true,
                   text: 'Her Hoop Stats Rating',

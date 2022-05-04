@@ -64,10 +64,6 @@ var myChart = new Chart(ctx, {
                     size: 18
                 }
             },
-            subtitle: {
-                display: true,
-                text: ["For most of the last 13 years, University of Connecticut was the strongest among any of the six teams that", "won an NCAA championship, according to Her Hoop Stats Ratings. But starting in 2018-19, the gap narrowed,", "and some teams - Baylor, Notre Dame, South Carolina and Stanford - were rated higher than UConn in certain years. The", "HHS Rating is a 'predictive metric of team strength based on machine learning.' It represents the number of points by", "which team would be expected to outscore an average opponent on a neutral court."],
-            }
         },
         scales: {
             x: {
